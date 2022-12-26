@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "534dcf31-9649-456d-98ba-38fb7ad9089f"
+      }
+    },
+    "owner": "strealizer"
   }
 }
